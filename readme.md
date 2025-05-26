@@ -29,7 +29,7 @@ La presentación cubre:
 ## 📌 Notas
 
 - La presentación está alojada en Genially y es completamente interactiva.
-- Este repositorio puede complementarse con materiales adicionales del proyecto si se desea (código, capturas, informes, etc.).
+- Este repositorio contiene materiales adicionales del proyecto si se desea (código, capturas, informes, etc.).
 
 ---
 
